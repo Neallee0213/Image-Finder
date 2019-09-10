@@ -4,7 +4,7 @@ import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
 import Search from "./components/search/Search";
 import Box from '@material-ui/core/Box';
 import { Grid } from "@material-ui/core";
-import { fontWeight, letterSpacing } from '@material-ui/system';
+
 
 
 class App extends React.Component  {
